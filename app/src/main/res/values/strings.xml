@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Goat</string>
+    <string name="tap_anywhere_for_hourly_details">Tap anywhere for hourly details</string>
+    <string name="goat_weather">GOAT Weather</string>
+</resources>
